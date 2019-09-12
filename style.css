@@ -1,0 +1,119 @@
+
+
+body {
+    background: rgba(223,238,181,1);
+    background: -moz-linear-gradient(left, rgba(223,238,181,1) 0%, rgba(194,229,42,1) 50%, rgba(163,174,255,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(223,238,181,1)), color-stop(50%, rgba(194,229,42,1)), color-stop(100%, rgba(163,174,255,1)));
+    background: -webkit-linear-gradient(left, rgba(223,238,181,1) 0%, rgba(194,229,42,1) 50%, rgba(163,174,255,1) 100%);
+    background: -o-linear-gradient(left, rgba(223,238,181,1) 0%, rgba(194,229,42,1) 50%, rgba(163,174,255,1) 100%);
+    background: -ms-linear-gradient(left, rgba(223,238,181,1) 0%, rgba(194,229,42,1) 50%, rgba(163,174,255,1) 100%);
+    background: linear-gradient(to right, rgba(223,238,181,1) 0%, rgba(194,229,42,1) 50%, rgba(163,174,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dfeeb5', endColorstr='#a3aeff', GradientType=1 );
+    color: #dceda6 ;
+}
+
+h1,h2,h3,h4,h5,h6{
+    padding-left: 2px;
+    font-family: 'Crimson Pro', serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    width: 80% ;
+}
+
+.container {
+    padding: 5px;
+    background-color : #ffa1a8;
+    -webkit-box-shadow: 2px 7px 19px -1px rgba(43,42,102,0.35);
+    -moz-box-shadow: 2px 7px 19px -1px rgba(43,42,102,0.35);
+    box-shadow: 2px 7px 19px -1px rgba(43,42,102,0.35);
+}
+
+header img{
+    margin: 15px;
+    filter:saturate(1.1);
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    border: 0px solid #000000;
+    -webkit-box-shadow: 0px 9px 14px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 9px 14px -2px rgba(0,0,0,0.75);
+    box-shadow: 0px 9px 14px -2px rgba(0,0,0,0.75);
+}
+
+#vl{
+
+    -webkit-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    -moz-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+}
+ul.nav li {
+    float:left;
+    margin: 0;
+    padding: 5px;
+    list-style-type: none;
+}
+ul.nav li a{
+
+    color: #2b2a66;
+}
+
+
+
+.about-me{
+    text-align: center;
+    margin: 10px;
+    padding: 7px;
+    -webkit-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    -moz-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+}
+
+.competence{
+    margin: 10px;
+    -webkit-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    -moz-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+}
+.competence ul li{
+
+    list-style: none;
+}
+
+.experiences{
+    margin: 10px;
+    -webkit-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    -moz-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+    box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+
+}
+
+.int{
+margin: 10px;
+-webkit-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+-moz-box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+box-shadow: -1px -2px 25px -6px rgba(43,42,102,1);
+}
+
+ul.interet li{
+    float:left;
+    margin: 0;
+    padding: 5px;
+    list-style-type: none;
+    display: inline;
+}
+
+.festival{
+    float: left;
+    display: block;
+    padding: 10px;
+   
+}
+.copywrite{
+    text-align: center;
+}
+
+
+
